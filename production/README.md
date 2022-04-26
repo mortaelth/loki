@@ -45,7 +45,7 @@ To deploy a cluster of loki locally, please refer to this [doc](./docker/)
 
 ## Using Helm to deploy on Kubernetes
 
-There is a [Helm chart](helm) to deploy Loki and Promtail to Kubernetes.
+There is a [Helm chart](https://github.com/grafana/helm-charts) to deploy Loki and Promtail to Kubernetes.
 
 ## Build and run from source
 
